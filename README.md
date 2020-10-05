@@ -1,2 +1,2 @@
-# TactileSGNet
-A spiking graph neural network for event-based learning
+# TactileSGNet 
+This repository contains code for the IROS 2020 paper "TactileSGNet: A Spiking Graph Neural Network for Event-based Tactile Object Recognition". In this paper, we propose a novel spiking graph neural network for event-based tactile object recognition. To make use of local connectivity of taxels, we present several methods for organizing the tactile data in a graph structure. Based on the constructed graphs, we develop a spiking graph convolutional network. The event-driven nature of spiking neural network makes it arguably more suitable for processing the event-based data. Experimental results on two tactile datasets show that the proposed method outperforms other state-of-the-art spiking methods, achieving high accuracies of approximately 90% when classifying a variety of different household objects.
