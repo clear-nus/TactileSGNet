@@ -12,6 +12,7 @@ time
 
 # Usage
 Download Ev-Touch Objects dataset, and put it under the same folder as these python files;
+
 Run the following command to conduct the code 
 $python main.py$
 
