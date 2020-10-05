@@ -27,3 +27,7 @@ For any questions regarding the code or the paper, please email me at gufq87 at 
   year={2020}
 }
 ```
+
+# Acknowledgement
+Part of the code in this repository has been adapted from the following repo:
+https://github.com/yjwu17/BP-for-SpikingNN 
