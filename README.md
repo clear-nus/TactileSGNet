@@ -13,7 +13,7 @@ This repository contains code for the IROS 2020 paper "TactileSGNet: A Spiking G
 
 # Usage
 - Download Ev-Touch Objects dataset, and put it under the same folder as these python files
-- Run the following 'main.py' to see the result
+- Run the 'main.py' file to see the result
 
 # Questions?
 For any questions regarding the code or the paper, please email me at gufq87 at gmail.com.
