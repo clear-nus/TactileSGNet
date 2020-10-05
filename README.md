@@ -14,7 +14,7 @@ This repository contains code for the IROS 2020 paper "TactileSGNet: A Spiking G
 - time
 
 # Usage
-- Download Ev-Touch Objects dataset, and put it under the same folder as these python files
+- Unzip the Ev-Objects dataset, and put it under the same folder as these python files
 - Run the 'main.py' file to see the result
 
 # Questions?
