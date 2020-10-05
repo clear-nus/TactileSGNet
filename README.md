@@ -21,6 +21,7 @@ This repository contains code for the IROS 2020 paper "TactileSGNet: A Spiking G
 For any questions regarding the code or the paper, please email me at gufq87 at gmail.com.
 
 # Citing
+You may want to cide the paper
 ```
 @inproceedings{gu2020tactilesgnet,
   title={TactileSGNet: A Spiking Graph Neural Network for Event-based Tactile Object Recognition},
